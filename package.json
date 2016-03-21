@@ -1,0 +1,5 @@
+{
+  "devDependencies": {
+    "cluster": "^0.7.7"
+  }
+}
